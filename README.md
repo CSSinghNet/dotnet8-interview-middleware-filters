@@ -105,10 +105,10 @@ authorization, logging, and response handling.
 
 # 🔹 Types of Filters
 
-1.  Authorization Filters\
-2.  Resource Filters\
-3.  Action Filters\
-4.  Exception Filters\
+1.  Authorization Filters
+2.  Resource Filters
+3.  Action Filters
+4.  Exception Filters
 5.  Result Filters
 
 ------------------------------------------------------------------------
